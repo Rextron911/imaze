@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-<a href="www.google.com">CLICK TO FOLLOW</a>
+<a href="https://www.google.com">CLICK TO FOLLOW</a>
 
 You can use the [editor on GitHub](https://github.com/Rextron911/imaze/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
